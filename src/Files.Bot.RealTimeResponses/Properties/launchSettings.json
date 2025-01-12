@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Files.Bot.RealTimeResponses": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7195"
+    }
+  }
+}
