@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Files.Bot.RealTimeResponses
 EndProject
 Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Files.Bot.Private", "src\Files.Bot.Private\Files.Bot.Private.shproj", "{91A33382-835A-47F0-8898-C78187BAF5A1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Files.Bot.Core", "src\Files.Bot.Core\Files.Bot.Core.csproj", "{31A92B9E-52D6-42CD-BF55-5C87C9F3B6F6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -22,6 +24,10 @@ Global
 		{8246368F-192A-4915-8C3B-0747B4AE5B59}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8246368F-192A-4915-8C3B-0747B4AE5B59}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8246368F-192A-4915-8C3B-0747B4AE5B59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31A92B9E-52D6-42CD-BF55-5C87C9F3B6F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31A92B9E-52D6-42CD-BF55-5C87C9F3B6F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31A92B9E-52D6-42CD-BF55-5C87C9F3B6F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31A92B9E-52D6-42CD-BF55-5C87C9F3B6F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
