@@ -6,6 +6,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Files.Bot.FormatXAML", "src
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Files.Bot.RealTimeResponses", "src\Files.Bot.RealTimeResponses\Files.Bot.RealTimeResponses.csproj", "{8246368F-192A-4915-8C3B-0747B4AE5B59}"
 EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Files.Bot.Private", "src\Files.Bot.Private\Files.Bot.Private.shproj", "{91A33382-835A-47F0-8898-C78187BAF5A1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -26,5 +28,8 @@ Global
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8B4C673A-B946-4F5B-B73D-3B2AE645F607}
+	EndGlobalSection
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		src\Files.Bot.Private\Files.Bot.Private.projitems*{91a33382-835a-47f0-8898-c78187baf5a1}*SharedItemsImports = 13
 	EndGlobalSection
 EndGlobal
